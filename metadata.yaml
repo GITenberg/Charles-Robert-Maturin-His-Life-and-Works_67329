@@ -1,5 +1,8 @@
 _repo: Charles-Robert-Maturin-His-Life-and-Works_67329
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67329-h/images/cover.jpg
 creator:
   author:
     agent_name: Idman, Niilo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54148
     wikipedia: https://fi.wikipedia.org/wiki/Niilo_Idman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67329#Charles-Robert-Maturin-His-Life-and-Works
 gutenberg_issued: '2022-02-05'
 identifiers:
   gutenberg: '67329'
